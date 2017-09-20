@@ -1,0 +1,72 @@
+/* BASE */
+html,
+body {
+  font-size: 1em;
+  line-height: 1.4;
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none;
+  color: inherit; }
+
+.container {
+  clear: both;
+  margin: 0 20px; }
+
+.mainContent {
+  padding-top: 66px; }
+
+li {
+  list-style: none; }
+
+/* NAV */
+.header {
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 66px;
+  line-height: 66px;
+  color: #fff;
+  background-color: #000; }
+
+.logo {
+  padding: 0 25px;
+  float: left; }
+
+.menu {
+  float: left; }
+  .menu a {
+    padding: 0 10px; }
+  .menu a:hover {
+    color: red; }
+
+.monsterContainer {
+  width: 50%;
+  float: left; }
+
+ul.list {
+  height: 100%;
+  max-height: 40em;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding-top: 1em;
+  clear: both; }
+
+ul.list li {
+  padding: 1px;
+  display: block;
+  cursor: pointer;
+  border-bottom: 1px solid gray;
+  max-height: 3em;
+  overflow-y: hidden; }
+
+li:hover {
+  background-color: #C3C3C3; }
+
+.outputContainer {
+  width: 50%;
+  float: right; }
+
+/*# sourceMappingURL=bestiary.css.map */
