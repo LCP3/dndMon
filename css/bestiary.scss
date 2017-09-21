@@ -61,6 +61,7 @@ li {
 .monsterContainer {
     width: 50%;
     float: left;
+    padding: 1em;
 }
 
 ul.list {
@@ -86,11 +87,39 @@ li:hover {
 }
 
 // MONSTER DISPLAY
-.outputContainer {
+#outputContainer {
     width: 50%;
     float: right;
+    padding: 1em;
 }
 
+#monsterBlock {
+    background-color: #fdf1dc;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.separateLine div {
+    height: 4px;
+    background-color: red;
+    margin: 4px auto;
+}
+
+#abilityScoreNames {
+    text-align: center;
+
+    div {
+        display: inline-block;
+    }
+}
+
+#abilityScores {
+    text-align: center;
+
+    div {
+        display: inline-block;
+    }
+}
 
 // RESPONSIVE
 @media screen and (min-width: 768px){

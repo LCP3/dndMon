@@ -52,7 +52,67 @@ function pickMonster(id) {
     var monsters = monsterData.compendium.monster;
 
     // set table fields
-    var name = document.querySelector(".monsterName");
+    var name = document.querySelector("#monsterName");
     name.innerHTML = monsters[id].name;
+    
+    var size = document.querySelector("#monsterSize");
+    size.innerHTML = monsters[id].size;
+    
+    var type = document.querySelector("#monsterType");
+    type.innerHTML = monsters[id].type;
+    
+    var source = document.querySelector("#monsterSource");
+    source.innerHTML = monsters[id].source;
+    
+    var alignment = document.querySelector("#monsterAlignment");
+    alignment.innerHTML = monsters[id].alignment;
+    
+    var ac = document.querySelector("#monsterAc");
+    ac.innerHTML = monsters[id].ac;
+    
+    var hp = document.querySelector("#monsterHp");
+    hp.innerHTML = monsters[id].hp;
+    
+    var speed = document.querySelector("#monsterSpeed");
+    speed.innerHTML = monsters[id].speed;
+    
+    var str = document.querySelector("#monsterStr");
+    str.innerHTML = monsters[id].str;
+    
+    var dex = document.querySelector("#monsterDex");
+    dex.innerHTML = monsters[id].dex;
+
+    var con = document.querySelector("#monsterCon");
+    con.innerHTML = monsters[id].con;
+
+    var int = document.querySelector("#monsterInt");
+    int.innerHTML = monsters[id].int;
+
+    var wis = document.querySelector("#monsterWis");
+    wis.innerHTML = monsters[id].wis;
+
+    var cha = document.querySelector("#monsterCha");
+    cha.innerHTML = monsters[id].cha;
+
+    var resist = document.querySelector("#monsterResist");
+    resist.innerHTML = monsters[id].resist;
+
+    var immune = document.querySelector("#monsterImmune");
+    immune.innerHTML = monsters[id].immune;
+
+    var condImmune = document.querySelector("#monsterCondImmune");
+    condImmune.innerHTML = monsters[id].conditionImmune;
+
+    var senses = document.querySelector("#monsterSenses");
+    senses.innerHTML = monsters[id].senses;
+
+    var passive = document.querySelector("#monsterPassive");
+    passive.innerHTML = monsters[id].passive;
+
+    var languages = document.querySelector("#monsterLanguages");
+    languages.innerHTML = monsters[id].languages;
+
+    var cr = document.querySelector("#monsterCr");
+    cr.innerHTML = monsters[id].cr;
 }
 

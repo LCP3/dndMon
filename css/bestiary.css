@@ -44,7 +44,8 @@ li {
 
 .monsterContainer {
   width: 50%;
-  float: left; }
+  float: left;
+  padding: 1em; }
 
 ul.list {
   height: 100%;
@@ -65,8 +66,29 @@ ul.list li {
 li:hover {
   background-color: #C3C3C3; }
 
-.outputContainer {
+#outputContainer {
   width: 50%;
-  float: right; }
+  float: right;
+  padding: 1em; }
+
+#monsterBlock {
+  background-color: #fdf1dc;
+  width: 100%;
+  table-layout: fixed; }
+
+.separateLine div {
+  height: 4px;
+  background-color: red;
+  margin: 4px auto; }
+
+#abilityScoreNames {
+  text-align: center; }
+  #abilityScoreNames div {
+    display: inline-block; }
+
+#abilityScores {
+  text-align: center; }
+  #abilityScores div {
+    display: inline-block; }
 
 /*# sourceMappingURL=bestiary.css.map */
