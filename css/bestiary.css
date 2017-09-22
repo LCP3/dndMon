@@ -69,26 +69,47 @@ li:hover {
 #outputContainer {
   width: 50%;
   float: right;
-  padding: 1em; }
+  padding: 1em;
+  max-width: 600px; }
 
 #monsterBlock {
   background-color: #fdf1dc;
-  width: 100%;
-  table-layout: fixed; }
+  width: 100%; }
 
-.separateLine div {
+#monsterName {
+  color: #A32D1F;
+  font-weight: 700; }
+
+.statContainer {
+  padding: 0 6px; }
+
+.separateLine {
   height: 4px;
-  background-color: red;
+  background-color: #A32D1F;
   margin: 4px auto; }
 
 #abilityScoreNames {
-  text-align: center; }
+  text-align: center;
+  color: #A32D1F;
+  font-weight: 700; }
   #abilityScoreNames div {
-    display: inline-block; }
+    display: inline-block;
+    width: 14%; }
 
 #abilityScores {
   text-align: center; }
   #abilityScores div {
-    display: inline-block; }
+    display: inline-block;
+    width: 14%; }
+
+.statLabel {
+  color: #A32D1F;
+  font-weight: 700; }
+
+.statBorder {
+  height: 6px;
+  background-color: #EEB654;
+  margin: 4px auto;
+  border: 1px solid black; }
 
 /*# sourceMappingURL=bestiary.css.map */

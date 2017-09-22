@@ -116,3 +116,27 @@ function pickMonster(id) {
     cr.innerHTML = monsters[id].cr;
 }
 
+function searchList() {
+    var input, filter, ul;
+    input = document.getElementById("search");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("monsterList");
+
+    for(var i=0; i < ul.childNodes.length; i++) {
+        var li = document.getElementById(i);
+       
+        if (li) {
+            if (li.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                li.style.display = "";
+            } else {
+                li.style.display = "none";
+            }
+        }
+    }
+}
+
+function clearSearch() {
+    var input = document.getElementById("search");
+    input.value = "";
+    searchList();
+}
