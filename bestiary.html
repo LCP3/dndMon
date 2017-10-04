@@ -6,29 +6,33 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>DnDMon</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/bestiary.css">    
+    <link rel="stylesheet" href="./css/bestiary.css">   
+    <link rel="shorctut icon" href="./resources/favicon.png">
 </head>
 <body>
     <header class="header">
-
-        <a href="#" class="logo">DnDmon</a>
-
+        <a href="#" class="logo-header">DnDmon</a>
         <nav class="menu">
-            <a href="#" class="menuItem">Home</a>
+            <a href="#monsterBlock" class="menuItem">Home</a>
             <a href="#" class="menuItem">About</a>
         </nav>
     </header>
     <div class="mainContent">
-        <div class="monsterContainer">
+        <div class="logo">
+            <img src="./resources/logo.png" alt="DnDMon -- A DnD Bestiary">
+            <h1>DnDMon</h1>
+            <h3>A D&D5e Bestiary Resource</h3>
+        </div>
+        <div class="searchContainer">
             <input type="search" name="" id="search" onKeyUp="searchList()" placeholder="Search for monster...">
-            <button onclick="clearSearch()">Clear</button>
-
-            <h2>Monster List</h2>
+            <button class="btn-clear" onclick="clearSearch()">Clear</button>
+        </div>
+        <div class="monsterContainer">
             <ul id="monsterList" class="list">
             </ul>
         </div>
         <div id="outputContainer">
-            <div id="monsterBlock">
+            <div id="monsterBlock" class="hide">
                 <div>
                     <div>
                         <div class="statBorder"></div>

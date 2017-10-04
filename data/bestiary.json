@@ -2,7 +2,7 @@ var monsterData = {
 	"compendium": {
 		"monster": [{
 			"name": "Aarakocra",
-			"size": "M",
+			"size": "Medium",
             "type": "humanoid (aarakocra)",
             "source": "Monster Manual",
 			"alignment": "neutral good",
@@ -58,7 +58,7 @@ var monsterData = {
 		},
 			{
 				"name": "Abjurer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -128,7 +128,7 @@ var monsterData = {
 			},
 			{
 				"name": "Aboleth",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -222,7 +222,7 @@ var monsterData = {
 			},
 			{
 				"name": "Abominable Yeti",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -296,7 +296,7 @@ var monsterData = {
 			},
 			{
 				"name": "Acolyte",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -338,7 +338,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Black Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -444,7 +444,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Blue Dracolich",
-				"size": "H",
+				"size": "Huge",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -552,7 +552,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Blue Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -651,7 +651,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Brass Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -733,7 +733,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Bronze Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -841,7 +841,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Copper Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -942,7 +942,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Gold Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -1050,7 +1050,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Green Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -1157,7 +1157,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Red Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -1268,7 +1268,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult Silver Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -1369,7 +1369,7 @@ var monsterData = {
 			},
 			{
 				"name": "Adult White Dragon",
-				"size": "H",
+				"size": "Huge",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -1475,7 +1475,7 @@ var monsterData = {
 			},
 			{
 				"name": "Aerisi Kalinoth",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -1543,7 +1543,7 @@ var monsterData = {
 			},
 			{
 				"name": "Air Elemental",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -1595,7 +1595,7 @@ var monsterData = {
 			},
 			{
 				"name": "Air Elemental Myrmidon",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral",
@@ -1649,7 +1649,7 @@ var monsterData = {
 			},
 			{
 				"name": "Alhoon",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Volo's Guide",
 				"alignment": "any evil alignment",
@@ -1740,7 +1740,7 @@ var monsterData = {
 			},
 			{
 				"name": "Allosaurus",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -1786,7 +1786,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ambush Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Tyranny of Dragons",
 				"alignment": "unaligned",
@@ -1835,7 +1835,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Black Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -1938,7 +1938,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Blue Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -2037,7 +2037,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Brass Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -2145,7 +2145,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Bronze Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -2260,7 +2260,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Copper Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -2368,7 +2368,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Gold Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -2483,7 +2483,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Green Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -2590,7 +2590,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Red Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -2689,7 +2689,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient Silver Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -2797,7 +2797,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ancient White Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -2884,7 +2884,7 @@ var monsterData = {
 			},
 			{
 				"name": "Androsphinx",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -2985,7 +2985,7 @@ var monsterData = {
 			},
 			{
 				"name": "Animated Armor",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -3035,7 +3035,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ankheg",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -3073,7 +3073,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ankylosaurus",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -3100,7 +3100,7 @@ var monsterData = {
 			},
 			{
 				"name": "Annis Hag",
-				"size": "L",
+				"size": "Large",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -3261,7 +3261,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ape",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -3307,7 +3307,7 @@ var monsterData = {
 			},
 			{
 				"name": "Apprentice Wizard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -3355,7 +3355,7 @@ var monsterData = {
 			},
 			{
 				"name": "Arcanaloth",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (yugoloth)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -3444,7 +3444,7 @@ var monsterData = {
 			},
 			{
 				"name": "Archdruid",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -3517,7 +3517,7 @@ var monsterData = {
 			},
 			{
 				"name": "Archer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -3577,7 +3577,7 @@ var monsterData = {
 			},
 			{
 				"name": "Archmage",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -3636,7 +3636,7 @@ var monsterData = {
 			},
 			{
 				"name": "Assassin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any non-good alignment",
@@ -3707,7 +3707,7 @@ var monsterData = {
 			},
 			{
 				"name": "Augrek Brighthelm",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (shield dwarf)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful good",
@@ -3767,7 +3767,7 @@ var monsterData = {
 			},
 			{
 				"name": "Aurochs",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -3812,7 +3812,7 @@ var monsterData = {
 			},
 			{
 				"name": "Avatar of Death",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -3862,7 +3862,7 @@ var monsterData = {
 			},
 			{
 				"name": "Awakened Shrub",
-				"size": "S",
+				"size": "Small",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -3898,7 +3898,7 @@ var monsterData = {
 			},
 			{
 				"name": "Awakened Tree",
-				"size": "H",
+				"size": "Huge",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -3934,7 +3934,7 @@ var monsterData = {
 			},
 			{
 				"name": "Awakened Zurkhwood",
-				"size": "H",
+				"size": "Huge",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -3978,7 +3978,7 @@ var monsterData = {
 			},
 			{
 				"name": "Axe Beak",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -4005,7 +4005,7 @@ var monsterData = {
 			},
 			{
 				"name": "Azbara Jos",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -4068,7 +4068,7 @@ var monsterData = {
 			},
 			{
 				"name": "Azer",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -4121,7 +4121,7 @@ var monsterData = {
 			},
 			{
 				"name": "Baba Lysaga",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Curse of Strahd",
 				"alignment": "chaotic evil",
@@ -4210,7 +4210,7 @@ var monsterData = {
 			},
 			{
 				"name": "Baba Lysaga's Creeping Hut",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "construct",
                 "source": "Curse of Strahd",
 				"alignment": "unaligned",
@@ -4282,7 +4282,7 @@ var monsterData = {
 			},
 			{
 				"name": "Babau",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (demon)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -4351,7 +4351,7 @@ var monsterData = {
 			},
 			{
 				"name": "Baboon",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -4384,7 +4384,7 @@ var monsterData = {
 			},
 			{
 				"name": "Badger",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -4418,7 +4418,7 @@ var monsterData = {
 			},
 			{
 				"name": "Balor",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -4512,7 +4512,7 @@ var monsterData = {
 			},
 			{
 				"name": "Banderhobb",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -4591,7 +4591,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bandit",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any non-lawful alignment",
@@ -4629,7 +4629,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bandit Captain",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any non-lawful alignment",
@@ -4683,7 +4683,7 @@ var monsterData = {
 			},
 			{
 				"name": "Banshee",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -4742,7 +4742,7 @@ var monsterData = {
 			},
 			{
 				"name": "Baphomet",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -4886,7 +4886,7 @@ var monsterData = {
 			},
 			{
 				"name": "Barbed Devil",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -4969,7 +4969,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -5042,7 +5042,7 @@ var monsterData = {
 			},
 			{
 				"name": "Barghest",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (shapechanger)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -5128,7 +5128,7 @@ var monsterData = {
 			},
 			{
 				"name": "Barlgura",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -5210,7 +5210,7 @@ var monsterData = {
 			},
 			{
 				"name": "Barovian Witch",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Curse of Strahd",
 				"alignment": "chaotic evil",
@@ -5270,7 +5270,7 @@ var monsterData = {
 			},
 			{
 				"name": "Basilisk",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -5306,7 +5306,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bastian Thermandar",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (fire genasi)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -5363,7 +5363,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bat",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -5404,7 +5404,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bearded Devil",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -5472,7 +5472,7 @@ var monsterData = {
 			},
 			{
 				"name": "Behir",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -5540,7 +5540,7 @@ var monsterData = {
 			},
 			{
 				"name": "Beholder",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -5605,7 +5605,7 @@ var monsterData = {
 			},
 			{
 				"name": "Beholder Zombie",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -5655,7 +5655,7 @@ var monsterData = {
 			},
 			{
 				"name": "Beldora",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Illuskan human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic good",
@@ -5712,7 +5712,7 @@ var monsterData = {
 			},
 			{
 				"name": "Berserker",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any chaotic alignment",
@@ -5746,7 +5746,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bheur Hag",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -5904,7 +5904,7 @@ var monsterData = {
 			},
 			{
 				"name": "Black Bear",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -5953,7 +5953,7 @@ var monsterData = {
 			},
 			{
 				"name": "Black Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -6003,7 +6003,7 @@ var monsterData = {
 			},
 			{
 				"name": "Black Earth Guard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -6047,7 +6047,7 @@ var monsterData = {
 			},
 			{
 				"name": "Black Earth Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -6103,7 +6103,7 @@ var monsterData = {
 			},
 			{
 				"name": "Black Guard Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -6163,7 +6163,7 @@ var monsterData = {
 			},
 			{
 				"name": "Black Pudding",
-				"size": "L",
+				"size": "Large",
 				"type": "ooze",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -6221,7 +6221,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blackguard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any non-good alignment",
@@ -6293,7 +6293,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blagothkus",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (cloud giant)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -6359,7 +6359,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blink Dog",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -6403,7 +6403,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blood Hawk",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -6446,7 +6446,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blue Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -6490,7 +6490,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blue Guard Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -6544,7 +6544,7 @@ var monsterData = {
 			},
 			{
 				"name": "Blue Slaad",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -6615,7 +6615,7 @@ var monsterData = {
 			},
 			{
 				"name": "Boar",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -6658,7 +6658,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bodak",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -6727,7 +6727,7 @@ var monsterData = {
 			},
 			{
 				"name": "Boggle",
-				"size": "S",
+				"size": "Small",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic neutral",
@@ -6798,7 +6798,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bone Devil",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -6863,7 +6863,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bone Devil Polearm",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -6937,7 +6937,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bone Naga (Guardian)",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -6980,7 +6980,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bone Naga (Spirit)",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -7023,7 +7023,7 @@ var monsterData = {
 			},
 			{
 				"name": "Brass Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -7069,7 +7069,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bridesmaid of Zuggtmoy",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -7108,7 +7108,7 @@ var monsterData = {
 			},
 			{
 				"name": "Brontosaurus",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -7156,7 +7156,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bronze Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -7208,7 +7208,7 @@ var monsterData = {
 			},
 			{
 				"name": "Broom of Animated Attack",
-				"size": "S",
+				"size": "Small",
 				"type": "construct",
                 "source": "Curse of Strahd",
 				"alignment": "unaligned",
@@ -7277,7 +7277,7 @@ var monsterData = {
 			},
 			{
 				"name": "Brown Bear",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -7329,7 +7329,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bugbear",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -7388,7 +7388,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bugbear Chief",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -7459,7 +7459,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bulette",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -7503,7 +7503,7 @@ var monsterData = {
 			},
 			{
 				"name": "Bullywug",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (bullywug)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -7575,7 +7575,7 @@ var monsterData = {
 			},
 			{
 				"name": "Burrowshark",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -7626,7 +7626,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cambion",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend",
                 "source": "Monster Manual",
 				"alignment": "any evil alignment",
@@ -7699,7 +7699,7 @@ var monsterData = {
 			},
 			{
 				"name": "Camel",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -7726,7 +7726,7 @@ var monsterData = {
 			},
 			{
 				"name": "Captain Othelstan",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -7788,7 +7788,7 @@ var monsterData = {
 			},
 			{
 				"name": "Carrion Crawler",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -7848,7 +7848,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cat",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -7884,7 +7884,7 @@ var monsterData = {
 			},
 			{
 				"name": "Catoblepas",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -7943,7 +7943,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cave Bear",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -7996,7 +7996,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cave Fisher",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -8066,7 +8066,7 @@ var monsterData = {
 			},
 			{
 				"name": "Centaur",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -8131,7 +8131,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chain Devil",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -8197,7 +8197,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chamberlain of Zuggtmoy",
-				"size": "L",
+				"size": "Large",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -8259,7 +8259,7 @@ var monsterData = {
 			},
 			{
 				"name": "Champion",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -8328,7 +8328,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chasme",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -8392,7 +8392,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chimera",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -8458,7 +8458,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chitine",
-				"size": "S",
+				"size": "Small",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -8528,7 +8528,7 @@ var monsterData = {
 			},
 			{
 				"name": "Choldrith",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -8619,7 +8619,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chuul",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -8679,7 +8679,7 @@ var monsterData = {
 			},
 			{
 				"name": "Chuul Spore Servant",
-				"size": "L",
+				"size": "Large",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -8717,7 +8717,7 @@ var monsterData = {
 			},
 			{
 				"name": "Clay Golem",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -8792,7 +8792,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cloaker",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -8873,7 +8873,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cloud Giant",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "neutral good (50%) or neutral evil (50%)",
@@ -8951,7 +8951,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cloud Giant Smiling One",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (cloud giant)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic neutral",
@@ -9046,7 +9046,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cockatrice",
-				"size": "S",
+				"size": "Small",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -9074,7 +9074,7 @@ var monsterData = {
 			},
 			{
 				"name": "Commoner",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -9102,7 +9102,7 @@ var monsterData = {
 			},
 			{
 				"name": "Conjurer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -9167,7 +9167,7 @@ var monsterData = {
 			},
 			{
 				"name": "Constrictor Snake",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -9205,7 +9205,7 @@ var monsterData = {
 			},
 			{
 				"name": "Copper Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -9251,7 +9251,7 @@ var monsterData = {
 			},
 			{
 				"name": "Couatl",
-				"size": "M",
+				"size": "Medium",
 				"type": "celestial",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -9324,7 +9324,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cow",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -9369,7 +9369,7 @@ var monsterData = {
 			},
 			{
 				"name": "Crab",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -9406,7 +9406,7 @@ var monsterData = {
 			},
 			{
 				"name": "Crag Cat",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Storm King's Thunder",
 				"alignment": "unaligned",
@@ -9467,7 +9467,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cranium Rat",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -9516,7 +9516,7 @@ var monsterData = {
 			},
 			{
 				"name": "Crawling Claw",
-				"size": "T",
+				"size": "Tiny",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -9553,7 +9553,7 @@ var monsterData = {
 			},
 			{
 				"name": "Crocodile",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -9589,7 +9589,7 @@ var monsterData = {
 			},
 			{
 				"name": "Crushing Wave Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -9633,7 +9633,7 @@ var monsterData = {
 			},
 			{
 				"name": "Crushing Wave Reaver",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -9675,7 +9675,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cult Fanatic",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any non-good alignment",
@@ -9731,7 +9731,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cultist",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any non-good alignment",
@@ -9768,7 +9768,7 @@ var monsterData = {
 			},
 			{
 				"name": "Cyclops",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -9818,7 +9818,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dao",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -9906,7 +9906,7 @@ var monsterData = {
 			},
 			{
 				"name": "Darathra Shendrel",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Illuskan humanoid)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful good",
@@ -9970,7 +9970,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dark Tide Knight",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -10039,7 +10039,7 @@ var monsterData = {
 			},
 			{
 				"name": "Darkling",
-				"size": "S",
+				"size": "Small",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic neutral",
@@ -10091,7 +10091,7 @@ var monsterData = {
 			},
 			{
 				"name": "Darkling Elder",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic neutral",
@@ -10152,7 +10152,7 @@ var monsterData = {
 			},
 			{
 				"name": "Darkmantle",
-				"size": "S",
+				"size": "Small",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -10205,7 +10205,7 @@ var monsterData = {
 			},
 			{
 				"name": "Darz Helgar",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Illuskan human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral",
@@ -10266,7 +10266,7 @@ var monsterData = {
 			},
 			{
 				"name": "Death Dog",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -10310,7 +10310,7 @@ var monsterData = {
 			},
 			{
 				"name": "Death Kiss",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -10371,7 +10371,7 @@ var monsterData = {
 			},
 			{
 				"name": "Death Knight",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -10454,7 +10454,7 @@ var monsterData = {
 			},
 			{
 				"name": "Death Slaad",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -10557,7 +10557,7 @@ var monsterData = {
 			},
 			{
 				"name": "Death Tyrant",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -10624,7 +10624,7 @@ var monsterData = {
 			},
 			{
 				"name": "Deep Gnome (Svirfneblin)",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (gnome)",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -10688,7 +10688,7 @@ var monsterData = {
 			},
 			{
 				"name": "Deep Rothé",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -10740,7 +10740,7 @@ var monsterData = {
 			},
 			{
 				"name": "Deep Scion",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (shapechanger)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -10823,7 +10823,7 @@ var monsterData = {
 			},
 			{
 				"name": "Deer",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -10850,7 +10850,7 @@ var monsterData = {
 			},
 			{
 				"name": "Deinonychus",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -10910,7 +10910,7 @@ var monsterData = {
 			},
 			{
 				"name": "Demilich",
-				"size": "T",
+				"size": "Tiny",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -10990,7 +10990,7 @@ var monsterData = {
 			},
 			{
 				"name": "Demogorgon",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -11101,7 +11101,7 @@ var monsterData = {
 			},
 			{
 				"name": "Derro",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (derro)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -11162,7 +11162,7 @@ var monsterData = {
 			},
 			{
 				"name": "Derro Savant",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (derro)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -11235,7 +11235,7 @@ var monsterData = {
 			},
 			{
 				"name": "Deva",
-				"size": "M",
+				"size": "Medium",
 				"type": "celestial",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -11312,7 +11312,7 @@ var monsterData = {
 			},
 			{
 				"name": "Devourer",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -11370,7 +11370,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dimetrodon",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -11415,7 +11415,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dire Wolf",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -11458,7 +11458,7 @@ var monsterData = {
 			},
 			{
 				"name": "Displacer Beast",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -11506,7 +11506,7 @@ var monsterData = {
 			},
 			{
 				"name": "Diviner",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -11578,7 +11578,7 @@ var monsterData = {
 			},
 			{
 				"name": "Djinni",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -11652,7 +11652,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dolphin",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -11706,7 +11706,7 @@ var monsterData = {
 			},
 			{
 				"name": "Doppelganger",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -11774,7 +11774,7 @@ var monsterData = {
 			},
 			{
 				"name": "Draegloth",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -11845,7 +11845,7 @@ var monsterData = {
 			},
 			{
 				"name": "Draft Horse",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -11872,7 +11872,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dragon Turtle",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -11943,7 +11943,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dragonclaw",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -12004,7 +12004,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dragonfang",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -12075,7 +12075,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dragonsoul",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -12152,7 +12152,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dragonwing",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -12220,7 +12220,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dralmorrer Borngray",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (high elf)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -12300,7 +12300,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drannin Splithelm",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (shield dwarf)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -12380,7 +12380,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dretch",
-				"size": "S",
+				"size": "Small",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -12434,7 +12434,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drider",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -12526,7 +12526,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drider Spellcaster",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -12630,7 +12630,7 @@ var monsterData = {
 			},
 			{
 				"name": "Droki",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (derro)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -12720,7 +12720,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drow",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -12784,7 +12784,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drow Elite Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -12861,7 +12861,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drow Mage",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -12936,7 +12936,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drow Priestess of Lolth",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -13017,7 +13017,7 @@ var monsterData = {
 			},
 			{
 				"name": "Drow Spore Servant",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -13047,7 +13047,7 @@ var monsterData = {
 			},
 			{
 				"name": "Druid",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -13090,7 +13090,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dryad",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -13161,7 +13161,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -13228,7 +13228,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Darkhaft",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "out of the abyss",
 				"alignment": "lawful evil",
@@ -13305,7 +13305,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Kavalrachni",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "out of the abyss",
 				"alignment": "lawful evil",
@@ -13393,7 +13393,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Keeper of the Flame",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "out of the abyss",
 				"alignment": "lawful evil",
@@ -13480,7 +13480,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Soulblade",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "out of the abyss",
 				"alignment": "lawful evil",
@@ -13553,7 +13553,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Spore Servant",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -13584,7 +13584,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Stone Guard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "out of the abyss",
 				"alignment": "lawful evil",
@@ -13651,7 +13651,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duergar Xarron",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
                 "source": "out of the abyss",
 				"alignment": "lawful evil",
@@ -13714,7 +13714,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duodrone",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "construct",
@@ -13772,7 +13772,7 @@ var monsterData = {
 			},
 			{
 				"name": "Dust Mephit",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -13834,7 +13834,7 @@ var monsterData = {
 			},
 			{
 				"name": "Duvessa Shane",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Illuskan human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful good",
@@ -13881,7 +13881,7 @@ var monsterData = {
 			},
 			{
 				"name": "Eagle",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -13917,7 +13917,7 @@ var monsterData = {
 			},
 			{
 				"name": "Earth Elemental",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -13970,7 +13970,7 @@ var monsterData = {
 			},
 			{
 				"name": "Earth Elemental Myrmidon",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral",
@@ -14024,7 +14024,7 @@ var monsterData = {
 			},
 			{
 				"name": "Efreeti",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -14101,7 +14101,7 @@ var monsterData = {
 			},
 			{
 				"name": "Elder Brain",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -14227,7 +14227,7 @@ var monsterData = {
 			},
 			{
 				"name": "Elephant",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -14270,7 +14270,7 @@ var monsterData = {
 			},
 			{
 				"name": "Elizar Dryflagon",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -14321,7 +14321,7 @@ var monsterData = {
 			},
 			{
 				"name": "Elk",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -14367,7 +14367,7 @@ var monsterData = {
 			},
 			{
 				"name": "Empyrean",
-				"size": "H",
+				"size": "Huge",
 				"type": "celestial (titan)",
                 "source": "Monster Manual",
 				"alignment": "chaotic good (75%) or neutral evil (25%)",
@@ -14458,7 +14458,7 @@ var monsterData = {
 			},
 			{
 				"name": "Enchanter",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -14524,7 +14524,7 @@ var monsterData = {
 			},
 			{
 				"name": "Erinyes",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -14599,7 +14599,7 @@ var monsterData = {
 			},
 			{
 				"name": "Eternal Flame Guardian",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -14657,7 +14657,7 @@ var monsterData = {
 			},
 			{
 				"name": "Eternal Flame Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -14701,7 +14701,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ettercap",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -14782,7 +14782,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ettin",
-				"size": "L",
+				"size": "Large",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -14843,7 +14843,7 @@ var monsterData = {
 			},
 			{
 				"name": "Evil Mage",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human), lost mine of phandelver",
 				"alignment": "lawful evil",
 				"ac": "12",
@@ -14886,7 +14886,7 @@ var monsterData = {
 			},
 			{
 				"name": "Evoker",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -14954,7 +14954,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ezmerelda d'Avenir",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Curse of Strahd",
 				"alignment": "chaotic good",
@@ -15052,7 +15052,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Blue)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15136,7 +15136,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Green)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15220,7 +15220,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Indigo)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15304,7 +15304,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Orange)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15388,7 +15388,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Red)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15472,7 +15472,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Violet)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15556,7 +15556,7 @@ var monsterData = {
 			},
 			{
 				"name": "Faerie Dragon (Yellow)",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -15640,7 +15640,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fathomer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -15707,7 +15707,7 @@ var monsterData = {
 			},
 			{
 				"name": "Feathergale Knight",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -15765,7 +15765,7 @@ var monsterData = {
 			},
 			{
 				"name": "Female Steeder",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -15821,7 +15821,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fire Elemental",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -15883,7 +15883,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fire Elemental Myrmidon",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral",
@@ -15950,7 +15950,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fire Giant",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -15999,7 +15999,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fire Giant Dreadnought",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (fire giant)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -16069,7 +16069,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fire Snake",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -16126,7 +16126,7 @@ var monsterData = {
 			},
 			{
 				"name": "Firenewt Warlock of Imix",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (firenewt)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -16190,7 +16190,7 @@ var monsterData = {
 			},
 			{
 				"name": "Firenewt Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (firenewt)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -16247,7 +16247,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flail Snail",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -16320,7 +16320,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flameskull",
-				"size": "T",
+				"size": "Tiny",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -16393,7 +16393,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flamewrath",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -16445,7 +16445,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flesh Golem",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -16521,7 +16521,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flind",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnoll)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -16599,7 +16599,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flumph",
-				"size": "S",
+				"size": "Small",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -16658,7 +16658,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flying Snake",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -16692,7 +16692,7 @@ var monsterData = {
 			},
 			{
 				"name": "Flying Sword",
-				"size": "S",
+				"size": "Small",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -16736,7 +16736,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fomorian",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -16791,7 +16791,7 @@ var monsterData = {
 			},
 			{
 				"name": "Fraz-Urb'luu",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -16901,7 +16901,7 @@ var monsterData = {
 			},
 			{
 				"name": "Frog",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -16936,7 +16936,7 @@ var monsterData = {
 			},
 			{
 				"name": "Froghemoth",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -17011,7 +17011,7 @@ var monsterData = {
 			},
 			{
 				"name": "Frost Giant",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -17069,7 +17069,7 @@ var monsterData = {
 			},
 			{
 				"name": "Frost Giant Everlasting One",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (frost giant)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -17149,7 +17149,7 @@ var monsterData = {
 			},
 			{
 				"name": "Frulam Mondath",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -17200,7 +17200,7 @@ var monsterData = {
 			},
 			{
 				"name": "Galeb Duhr",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -17255,7 +17255,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gar Shatterkeel",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -17344,7 +17344,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gargoyle",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -17398,7 +17398,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gas Spore",
-				"size": "L",
+				"size": "Large",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -17445,7 +17445,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gauth",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -17516,7 +17516,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gazer",
-				"size": "T",
+				"size": "Tiny",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -17583,7 +17583,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gelatinous Cube",
-				"size": "L",
+				"size": "Large",
 				"type": "ooze",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -17638,7 +17638,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ghald",
-				"size": "L",
+				"size": "Large",
 				"type": "humanoid (sahuagin)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -17724,7 +17724,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ghast",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -17778,7 +17778,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ghost",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -17843,7 +17843,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ghoul",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -17883,7 +17883,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Ape",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -17929,7 +17929,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Badger",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -17979,7 +17979,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Bat",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18020,7 +18020,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Boar",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18063,7 +18063,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Centipede",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18091,7 +18091,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Constrictor Snake",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18132,7 +18132,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Crab",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18169,7 +18169,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Crocodile",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18221,7 +18221,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Eagle",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -18274,7 +18274,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Elk",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18324,7 +18324,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Fire Beetle",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18358,7 +18358,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Fly",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18377,7 +18377,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Frog",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18428,7 +18428,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Goat",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18471,7 +18471,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Hyena",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18507,7 +18507,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Lizard",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18548,7 +18548,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Octopus",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18605,7 +18605,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Owl",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -18650,7 +18650,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Poisonous Snake",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18681,7 +18681,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Rat",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18722,7 +18722,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Rat (Diseased)",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18750,7 +18750,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Scorpion",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18794,7 +18794,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Sea Horse",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18837,7 +18837,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Shark",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18881,7 +18881,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Spider",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -18941,7 +18941,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Strider",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -18992,7 +18992,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Toad",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -19041,7 +19041,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Vulture",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -19101,7 +19101,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Wasp",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -19128,7 +19128,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Weasel",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -19165,7 +19165,7 @@ var monsterData = {
 			},
 			{
 				"name": "Giant Wolf Spider",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -19215,7 +19215,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gibbering Mouther",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -19270,7 +19270,7 @@ var monsterData = {
 			},
 			{
 				"name": "Girallon",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -19337,7 +19337,7 @@ var monsterData = {
 			},
 			{
 				"name": "Githyanki Knight",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gith)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -19384,7 +19384,7 @@ var monsterData = {
 			},
 			{
 				"name": "Githyanki Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gith)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -19430,7 +19430,7 @@ var monsterData = {
 			},
 			{
 				"name": "Githzerai Monk",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gith)",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -19486,7 +19486,7 @@ var monsterData = {
 			},
 			{
 				"name": "Githzerai Zerth",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gith)",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -19542,7 +19542,7 @@ var monsterData = {
 			},
 			{
 				"name": "Glabrezu",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -19615,7 +19615,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gladiator",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -19683,7 +19683,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gnoll",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnoll)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -19737,7 +19737,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gnoll Fang of Yeenoghu",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnoll)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -19789,7 +19789,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gnoll Flesh Gnawer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnoll)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -19852,7 +19852,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gnoll Hunter",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnoll)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -19922,7 +19922,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gnoll Pack Lord",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnoll)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -19988,7 +19988,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gnoll Witherling",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -20051,7 +20051,7 @@ var monsterData = {
 			},
 			{
 				"name": "Goat",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -20094,7 +20094,7 @@ var monsterData = {
 			},
 			{
 				"name": "Goblin",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -20142,7 +20142,7 @@ var monsterData = {
 			},
 			{
 				"name": "Goblin Boss",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -20202,7 +20202,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gold Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -20254,7 +20254,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gorgon",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -20308,7 +20308,7 @@ var monsterData = {
 			},
 			{
 				"name": "Goristro",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -20397,7 +20397,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gray Ooze",
-				"size": "M",
+				"size": "Medium",
 				"type": "ooze",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -20450,7 +20450,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gray Ooze (Psychic)",
-				"size": "M",
+				"size": "Medium",
 				"type": "ooze",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -20510,7 +20510,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gray Slaad",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -20613,7 +20613,7 @@ var monsterData = {
 			},
 			{
 				"name": "Graz'zt",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon, shapechanger)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -20729,7 +20729,7 @@ var monsterData = {
 			},
 			{
 				"name": "Green Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -20780,7 +20780,7 @@ var monsterData = {
 			},
 			{
 				"name": "Green Guard Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -20840,7 +20840,7 @@ var monsterData = {
 			},
 			{
 				"name": "Green Hag",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -20937,7 +20937,7 @@ var monsterData = {
 			},
 			{
 				"name": "Green Slaad",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -21043,7 +21043,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grell",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -21094,7 +21094,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grick",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -21145,7 +21145,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grick Alpha",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -21205,7 +21205,7 @@ var monsterData = {
 			},
 			{
 				"name": "Griffon",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -21258,7 +21258,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grimlock",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (grimlock)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -21310,7 +21310,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grisha",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Damaran human)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -21361,7 +21361,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grung",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (grung)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -21432,7 +21432,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grung Elite Warrior",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (grung)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -21518,7 +21518,7 @@ var monsterData = {
 			},
 			{
 				"name": "Grung Wildling",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (grung)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -21608,7 +21608,7 @@ var monsterData = {
 			},
 			{
 				"name": "Guard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -21640,7 +21640,7 @@ var monsterData = {
 			},
 			{
 				"name": "Guard Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Tyranny of Dragons",
 				"alignment": "unaligned",
@@ -21689,7 +21689,7 @@ var monsterData = {
 			},
 			{
 				"name": "Guardian Naga",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -21753,7 +21753,7 @@ var monsterData = {
 			},
 			{
 				"name": "Guardian Portrait",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Curse of Strahd",
 				"alignment": "unaligned",
@@ -21807,7 +21807,7 @@ var monsterData = {
 			},
 			{
 				"name": "Gynosphinx",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -21895,7 +21895,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hadrosaurus",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -21934,7 +21934,7 @@ var monsterData = {
 			},
 			{
 				"name": "Half-Ogre (Ogrillon)",
-				"size": "L",
+				"size": "Large",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "any chaotic alignment",
@@ -21974,7 +21974,7 @@ var monsterData = {
 			},
 			{
 				"name": "Half-Red Dragon Veteran",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -22043,7 +22043,7 @@ var monsterData = {
 			},
 			{
 				"name": "Harpy",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -22095,7 +22095,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hawk",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -22131,7 +22131,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hell Hound",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -22187,7 +22187,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hellenrae",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -22259,7 +22259,7 @@ var monsterData = {
 			},
 			{
 				"name": "Helmed Horror",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -22314,7 +22314,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hezrou",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -22384,7 +22384,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hill Giant",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -22440,7 +22440,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hippogriff",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -22492,7 +22492,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hobgoblin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -22540,7 +22540,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hobgoblin Captain",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -22600,7 +22600,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hobgoblin Devastator",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -22674,7 +22674,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hobgoblin Iron Shadow",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -22751,7 +22751,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hobgoblin Warlord",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -22828,7 +22828,7 @@ var monsterData = {
 			},
 			{
 				"name": "Homunculus",
-				"size": "T",
+				"size": "Tiny",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -22865,7 +22865,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hook Horror",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -22917,7 +22917,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hook Horror Spore Servant",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -22955,7 +22955,7 @@ var monsterData = {
 			},
 			{
 				"name": "Horned Devil",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -23026,7 +23026,7 @@ var monsterData = {
 			},
 			{
 				"name": "Howling Hatred Initiate",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -23070,7 +23070,7 @@ var monsterData = {
 			},
 			{
 				"name": "Howling Hatred Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -23136,7 +23136,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hulking Crab",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Storm King's Thunder",
 				"alignment": "unaligned",
@@ -23188,7 +23188,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hunter Shark",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -23232,7 +23232,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hurricane",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -23300,7 +23300,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hydra",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -23365,7 +23365,7 @@ var monsterData = {
 			},
 			{
 				"name": "Hyena",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -23401,7 +23401,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ice Devil",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -23480,7 +23480,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ice Devil Spear",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -23568,7 +23568,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ice Mephit",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -23639,7 +23639,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ice Toad",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral",
@@ -23694,7 +23694,7 @@ var monsterData = {
 			},
 			{
 				"name": "Illithilich",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Volo's Guide",
 				"alignment": "any evil alignment",
@@ -23853,7 +23853,7 @@ var monsterData = {
 			},
 			{
 				"name": "Illusionist",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -23917,7 +23917,7 @@ var monsterData = {
 			},
 			{
 				"name": "Imix",
-				"size": "H",
+				"size": "Huge",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -24047,7 +24047,7 @@ var monsterData = {
 			},
 			{
 				"name": "Imp",
-				"size": "T",
+				"size": "Tiny",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -24120,7 +24120,7 @@ var monsterData = {
 			},
 			{
 				"name": "Intellect Devourer",
-				"size": "T",
+				"size": "Tiny",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -24180,7 +24180,7 @@ var monsterData = {
 			},
 			{
 				"name": "Invisible Stalker",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -24235,7 +24235,7 @@ var monsterData = {
 			},
 			{
 				"name": "Iron Golem",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -24316,7 +24316,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ixitxachitl",
-				"size": "S",
+				"size": "Small",
 				"type": "aberration",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -24355,7 +24355,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ixitxachitl Cleric",
-				"size": "S",
+				"size": "Small",
 				"type": "aberration",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -24406,7 +24406,7 @@ var monsterData = {
 			},
 			{
 				"name": "Iymrith, Ancient Blue Dragon",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "dragon",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -24522,7 +24522,7 @@ var monsterData = {
 			},
 			{
 				"name": "Izek Strazni",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Curse of Strahd",
 				"alignment": "neutral evil",
@@ -24583,7 +24583,7 @@ var monsterData = {
 			},
 			{
 				"name": "Jackal",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -24626,7 +24626,7 @@ var monsterData = {
 			},
 			{
 				"name": "Jackalwere",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -24693,7 +24693,7 @@ var monsterData = {
 			},
 			{
 				"name": "Jamna Gleamsilver",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (gnome)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral",
@@ -24757,7 +24757,7 @@ var monsterData = {
 			},
 			{
 				"name": "Juiblex",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -24884,7 +24884,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kenku",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (kenku)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -24938,7 +24938,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ki-rin",
-				"size": "H",
+				"size": "Huge",
 				"type": "celestial",
                 "source": "Volo's Guide",
 				"alignment": "lawful good",
@@ -25072,7 +25072,7 @@ var monsterData = {
 			},
 			{
 				"name": "Killer Whale",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -25122,7 +25122,7 @@ var monsterData = {
 			},
 			{
 				"name": "Knight",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -25185,7 +25185,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kobold",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (kobold)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -25237,7 +25237,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kobold Dragonshield",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (kobold)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -25308,7 +25308,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kobold Inventor",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (kobold)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -25397,7 +25397,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kobold Scale Sorcerer",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (kobold)",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -25470,7 +25470,7 @@ var monsterData = {
 			},
 			{
 				"name": "Korred",
-				"size": "S",
+				"size": "Small",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic neutral",
@@ -25556,7 +25556,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kraken",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "monstrosity (titan)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -25657,7 +25657,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kraken Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any evil alignment",
@@ -25721,7 +25721,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kuo-Toa",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (kuo-toa)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -25804,7 +25804,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kuo-Toa Archpriest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (kuo-toa)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -25891,7 +25891,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kuo-Toa Monitor",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (kuo-toa)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -25970,7 +25970,7 @@ var monsterData = {
 			},
 			{
 				"name": "Kuo-Toa Whip",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (kuo-toa)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -26053,7 +26053,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lamia",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -26114,7 +26114,7 @@ var monsterData = {
 			},
 			{
 				"name": "Langdedrosa Cyanwrath",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (half-dragon)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -26187,7 +26187,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lemure",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -26232,7 +26232,7 @@ var monsterData = {
 			},
 			{
 				"name": "Leucrotta",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -26312,7 +26312,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lich",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "any evil alignment",
@@ -26413,7 +26413,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lifferlas",
-				"size": "H",
+				"size": "Huge",
 				"type": "plant",
                 "source": "Storm King's Thunder",
 				"alignment": "unaligned",
@@ -26467,7 +26467,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lion",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -26532,7 +26532,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lizard",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -26560,7 +26560,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lizard King/Queen",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (lizardfolk)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -26633,7 +26633,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lizardfolk",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (lizardfolk)",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -26704,7 +26704,7 @@ var monsterData = {
 			},
 			{
 				"name": "Lizardfolk Shaman",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (lizardfolk)",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -26777,7 +26777,7 @@ var monsterData = {
 			},
 			{
 				"name": "Madam Eva",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Curse of Strahd",
 				"alignment": "chaotic neutral",
@@ -26852,7 +26852,7 @@ var monsterData = {
 			},
 			{
 				"name": "Maegera the Dawn Titan",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -26954,7 +26954,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mage",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -27000,7 +27000,7 @@ var monsterData = {
 			},
 			{
 				"name": "Magma Mephit",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -27071,7 +27071,7 @@ var monsterData = {
 			},
 			{
 				"name": "Magmin",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -27118,7 +27118,7 @@ var monsterData = {
 			},
 			{
 				"name": "Male Steeder",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "out of the abyss",
 				"alignment": "unaligned",
@@ -27174,7 +27174,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mammoth",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -27217,7 +27217,7 @@ var monsterData = {
 			},
 			{
 				"name": "Manes",
-				"size": "S",
+				"size": "Small",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -27249,7 +27249,7 @@ var monsterData = {
 			},
 			{
 				"name": "Manticore",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -27308,7 +27308,7 @@ var monsterData = {
 			},
 			{
 				"name": "Marid",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -27392,7 +27392,7 @@ var monsterData = {
 			},
 			{
 				"name": "Marilith",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -27480,7 +27480,7 @@ var monsterData = {
 			},
 			{
 				"name": "Markham Southwell",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Turami human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful good",
@@ -27537,7 +27537,7 @@ var monsterData = {
 			},
 			{
 				"name": "Marlos Urnrayle",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -27613,7 +27613,7 @@ var monsterData = {
 			},
 			{
 				"name": "Martial Arts Adept",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -27685,7 +27685,7 @@ var monsterData = {
 			},
 			{
 				"name": "Master Thief",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -27767,7 +27767,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mastiff",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -27803,7 +27803,7 @@ var monsterData = {
 			},
 			{
 				"name": "Maw Demon",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (demon)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -27845,7 +27845,7 @@ var monsterData = {
 			},
 			{
 				"name": "Medusa",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -27910,7 +27910,7 @@ var monsterData = {
 			},
 			{
 				"name": "Meenlock",
-				"size": "S",
+				"size": "Small",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -27967,7 +27967,7 @@ var monsterData = {
 			},
 			{
 				"name": "Merfolk",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (merfolk)",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -28004,7 +28004,7 @@ var monsterData = {
 			},
 			{
 				"name": "Merrow",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -28064,7 +28064,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mezzoloth",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (yugoloth)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -28153,7 +28153,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mimic",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -28221,7 +28221,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mind Flayer",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -28290,7 +28290,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mind Flayer Arcanist",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -28372,7 +28372,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mind Flayer Psion",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -28454,7 +28454,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mindwitness",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -28536,7 +28536,7 @@ var monsterData = {
 			},
 			{
 				"name": "Morkoth",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -28629,7 +28629,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mouth of Grolantor",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (hill giant)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -28692,7 +28692,7 @@ var monsterData = {
 			},
 			{
 				"name": "Necromancer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -28759,7 +28759,7 @@ var monsterData = {
 			},
 			{
 				"name": "Neogi",
-				"size": "S",
+				"size": "Small",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -28832,7 +28832,7 @@ var monsterData = {
 			},
 			{
 				"name": "Neogi Hatchling",
-				"size": "T",
+				"size": "Tiny",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -28880,7 +28880,7 @@ var monsterData = {
 			},
 			{
 				"name": "Neogi Master",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -28963,7 +28963,7 @@ var monsterData = {
 			},
 			{
 				"name": "Neothelid",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29033,7 +29033,7 @@ var monsterData = {
 			},
 			{
 				"name": "Nilbog",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (goblinoid)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29112,7 +29112,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc Blade of Ilneval",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29186,7 +29186,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc Claw of Luthic",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29258,7 +29258,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc Hand of Yurtrus",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29321,7 +29321,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc Nurtured One of Yurtrus",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29385,7 +29385,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc Red Fang of Shargaas",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29470,7 +29470,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ox",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -29521,7 +29521,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quetzalcoatlus",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -29575,7 +29575,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quickling",
-				"size": "T",
+				"size": "Tiny",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29633,7 +29633,7 @@ var monsterData = {
 			},
 			{
 				"name": "Red Guard Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -29687,7 +29687,7 @@ var monsterData = {
 			},
 			{
 				"name": "Redcap",
-				"size": "S",
+				"size": "Small",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29754,7 +29754,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rothé",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -29798,7 +29798,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sea Spawn",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -29863,7 +29863,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shadow Mastiff",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -29926,7 +29926,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shoosuva",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -29983,7 +29983,7 @@ var monsterData = {
 			},
 			{
 				"name": "Slithering Tracker",
-				"size": "M",
+				"size": "Medium",
 				"type": "ooze",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -30071,7 +30071,7 @@ var monsterData = {
 			},
 			{
 				"name": "Spawn of Kyuss",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -30132,7 +30132,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stegosaurus",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -30169,7 +30169,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stench Kow",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -30220,7 +30220,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stone Giant Dreamwalker",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (stone giant)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic neutral",
@@ -30286,7 +30286,7 @@ var monsterData = {
 			},
 			{
 				"name": "Minotaur",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -30350,7 +30350,7 @@ var monsterData = {
 			},
 			{
 				"name": "Minotaur Skeleton",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -30401,7 +30401,7 @@ var monsterData = {
 			},
 			{
 				"name": "Miraj Vizann",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (earth genasi)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -30463,7 +30463,7 @@ var monsterData = {
 			},
 			{
 				"name": "Miros Xelbrin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Damaran human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral good",
@@ -30523,7 +30523,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mongrelfolk",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (mongrelfolk)",
                 "source": "Curse of Strahd",
 				"alignment": "any alignment",
@@ -30613,7 +30613,7 @@ var monsterData = {
 			},
 			{
 				"name": "Monodrone",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "construct",
@@ -30665,7 +30665,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mormesk the Wraith",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead, lost mine of phandelver",
 				"alignment": "neutral evil",
 				"ac": "13",
@@ -30709,7 +30709,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mud Mephit",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -30769,7 +30769,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mule",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -30809,7 +30809,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mummy",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -30855,7 +30855,7 @@ var monsterData = {
 			},
 			{
 				"name": "Mummy Lord",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -30963,7 +30963,7 @@ var monsterData = {
 			},
 			{
 				"name": "Myconid Adult",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -31017,7 +31017,7 @@ var monsterData = {
 			},
 			{
 				"name": "Myconid Sovereign",
-				"size": "L",
+				"size": "Large",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -31089,7 +31089,7 @@ var monsterData = {
 			},
 			{
 				"name": "Myconid Sprout",
-				"size": "S",
+				"size": "Small",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -31137,7 +31137,7 @@ var monsterData = {
 			},
 			{
 				"name": "Naergoth Bladelord",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -31205,7 +31205,7 @@ var monsterData = {
 			},
 			{
 				"name": "Nalfeshnee",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -31280,7 +31280,7 @@ var monsterData = {
 			},
 			{
 				"name": "Narrak",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (derro)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -31355,7 +31355,7 @@ var monsterData = {
 			},
 			{
 				"name": "Narth Tezrin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Tethyrian human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic good",
@@ -31413,7 +31413,7 @@ var monsterData = {
 			},
 			{
 				"name": "Naxene Drathkala",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Turami human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral good",
@@ -31467,7 +31467,7 @@ var monsterData = {
 			},
 			{
 				"name": "Needle Blight",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -31507,7 +31507,7 @@ var monsterData = {
 			},
 			{
 				"name": "Neronvain",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -31576,7 +31576,7 @@ var monsterData = {
 			},
 			{
 				"name": "Nezznar the Black Spider",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf), lost mine of phandelver",
 				"alignment": "neutral evil",
 				"ac": "11 (14 with mage armor)",
@@ -31648,7 +31648,7 @@ var monsterData = {
 			},
 			{
 				"name": "Night Hag",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -31755,7 +31755,7 @@ var monsterData = {
 			},
 			{
 				"name": "Nightmare",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -31804,7 +31804,7 @@ var monsterData = {
 			},
 			{
 				"name": "Noble",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -31841,7 +31841,7 @@ var monsterData = {
 			},
 			{
 				"name": "Nothic",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -31901,7 +31901,7 @@ var monsterData = {
 			},
 			{
 				"name": "Nycaloth",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (yugoloth)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -31988,7 +31988,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ochre Jelly",
-				"size": "L",
+				"size": "Large",
 				"type": "ooze",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -32038,7 +32038,7 @@ var monsterData = {
 			},
 			{
 				"name": "Octopus",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -32095,7 +32095,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ogre",
-				"size": "L",
+				"size": "Large",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -32134,7 +32134,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ogre Zombie",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -32172,7 +32172,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ogremoch",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -32281,7 +32281,7 @@ var monsterData = {
 			},
 			{
 				"name": "Olhydra",
-				"size": "H",
+				"size": "Huge",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -32398,7 +32398,7 @@ var monsterData = {
 			},
 			{
 				"name": "One-Eyed Shiver",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -32459,7 +32459,7 @@ var monsterData = {
 			},
 			{
 				"name": "Oni",
-				"size": "L",
+				"size": "Large",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -32538,7 +32538,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -32586,7 +32586,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc Eye of Gruumsh",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -32643,7 +32643,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orc War Chief",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -32712,7 +32712,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orcus",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -32832,7 +32832,7 @@ var monsterData = {
 			},
 			{
 				"name": "Oreioth",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -32889,7 +32889,7 @@ var monsterData = {
 			},
 			{
 				"name": "Oren Yogilvy",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (strongheart halfling)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic good",
@@ -32950,7 +32950,7 @@ var monsterData = {
 			},
 			{
 				"name": "Orog",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (orc)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -33004,7 +33004,7 @@ var monsterData = {
 			},
 			{
 				"name": "Otyugh",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -33062,7 +33062,7 @@ var monsterData = {
 			},
 			{
 				"name": "Owl",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33106,7 +33106,7 @@ var monsterData = {
 			},
 			{
 				"name": "Owlbear",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33159,7 +33159,7 @@ var monsterData = {
 			},
 			{
 				"name": "Panther",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33212,7 +33212,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pegasus",
-				"size": "L",
+				"size": "Large",
 				"type": "celestial",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -33244,7 +33244,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pentadrone",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "construct",
@@ -33302,7 +33302,7 @@ var monsterData = {
 			},
 			{
 				"name": "Peryton",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -33369,7 +33369,7 @@ var monsterData = {
 			},
 			{
 				"name": "Phantom Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Curse of Strahd",
 				"alignment": "any alignment",
@@ -33439,7 +33439,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pharblex Spattergoo",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (bullywug)",
                 "source": "Tyranny of Dragons",
 				"alignment": "chaotic evil",
@@ -33528,7 +33528,7 @@ var monsterData = {
 			},
 			{
 				"name": "Phase Spider",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33579,7 +33579,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pidlwick II",
-				"size": "S",
+				"size": "Small",
 				"type": "construct",
                 "source": "Curse of Strahd",
 				"alignment": "neutral evil",
@@ -33633,7 +33633,7 @@ var monsterData = {
 			},
 			{
 				"name": "Piercer",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33677,7 +33677,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pit Fiend",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -33772,7 +33772,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pixie",
-				"size": "T",
+				"size": "Tiny",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -33817,7 +33817,7 @@ var monsterData = {
 			},
 			{
 				"name": "Planetar",
-				"size": "L",
+				"size": "Large",
 				"type": "celestial",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -33894,7 +33894,7 @@ var monsterData = {
 			},
 			{
 				"name": "Plesiosaurus",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33930,7 +33930,7 @@ var monsterData = {
 			},
 			{
 				"name": "Poisonous Snake",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -33958,7 +33958,7 @@ var monsterData = {
 			},
 			{
 				"name": "Polar Bear",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34010,7 +34010,7 @@ var monsterData = {
 			},
 			{
 				"name": "Poltergeist",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -34070,7 +34070,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pony",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34097,7 +34097,7 @@ var monsterData = {
 			},
 			{
 				"name": "Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -34150,7 +34150,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pseudodragon",
-				"size": "T",
+				"size": "Tiny",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -34223,7 +34223,7 @@ var monsterData = {
 			},
 			{
 				"name": "Pteranodon",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34259,7 +34259,7 @@ var monsterData = {
 			},
 			{
 				"name": "Purple Worm",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34311,7 +34311,7 @@ var monsterData = {
 			},
 			{
 				"name": "Purple Wormling",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Storm King's Thunder",
 				"alignment": "unaligned",
@@ -34356,7 +34356,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quadrone",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "construct",
@@ -34417,7 +34417,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quaggoth",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (quaggoth)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -34467,7 +34467,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quaggoth Spore Servant",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34504,7 +34504,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quaggoth Thonot",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (quaggoth)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -34565,7 +34565,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quasit",
-				"size": "T",
+				"size": "Tiny",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -34638,7 +34638,7 @@ var monsterData = {
 			},
 			{
 				"name": "Quipper",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34679,7 +34679,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rahadin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (elf)",
                 "source": "Curse of Strahd",
 				"alignment": "lawful evil",
@@ -34765,7 +34765,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rakshasa",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -34824,7 +34824,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rat",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34858,7 +34858,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rath Modar",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -34919,7 +34919,7 @@ var monsterData = {
 			},
 			{
 				"name": "Raven",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -34955,7 +34955,7 @@ var monsterData = {
 			},
 			{
 				"name": "Razerblast",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -35011,7 +35011,7 @@ var monsterData = {
 			},
 			{
 				"name": "Red Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -35055,7 +35055,7 @@ var monsterData = {
 			},
 			{
 				"name": "Red Slaad",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -35129,7 +35129,7 @@ var monsterData = {
 			},
 			{
 				"name": "Redbrand Ruffian",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human), lost mine of phandelver",
 				"alignment": "neutral evil",
 				"ac": "14 (studded leather armor)",
@@ -35166,7 +35166,7 @@ var monsterData = {
 			},
 			{
 				"name": "Reef Shark",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35210,7 +35210,7 @@ var monsterData = {
 			},
 			{
 				"name": "Remorhaz",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35256,7 +35256,7 @@ var monsterData = {
 			},
 			{
 				"name": "Revenant",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -35327,7 +35327,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rezmir",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (half-black dragon)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -35441,7 +35441,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rhinoceros",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35477,7 +35477,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rictavio",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Curse of Strahd",
 				"alignment": "lawful good",
@@ -35553,7 +35553,7 @@ var monsterData = {
 			},
 			{
 				"name": "Riding Horse",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35580,7 +35580,7 @@ var monsterData = {
 			},
 			{
 				"name": "Roc",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35633,7 +35633,7 @@ var monsterData = {
 			},
 			{
 				"name": "Roper",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -35705,7 +35705,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rug of Smothering",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35754,7 +35754,7 @@ var monsterData = {
 			},
 			{
 				"name": "Rust Monster",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35803,7 +35803,7 @@ var monsterData = {
 			},
 			{
 				"name": "Saber-Toothed Tiger",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -35856,7 +35856,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sacred Stone Monk",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -35914,7 +35914,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sahuagin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (sahuagin)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -35991,7 +35991,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sahuagin Baron",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (sahuagin)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -36069,7 +36069,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sahuagin Priestess",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (sahuagin)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -36148,7 +36148,7 @@ var monsterData = {
 			},
 			{
 				"name": "Salamander",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -36212,7 +36212,7 @@ var monsterData = {
 			},
 			{
 				"name": "Satyr",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -36274,7 +36274,7 @@ var monsterData = {
 			},
 			{
 				"name": "Scarecrow",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -36326,7 +36326,7 @@ var monsterData = {
 			},
 			{
 				"name": "Scorpion",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -36354,7 +36354,7 @@ var monsterData = {
 			},
 			{
 				"name": "Scout",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -36407,7 +36407,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sea Hag",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -36494,7 +36494,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sea Horse",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -36518,7 +36518,7 @@ var monsterData = {
 			},
 			{
 				"name": "Severin",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "neutral evil",
@@ -36627,7 +36627,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shadow",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -36682,7 +36682,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shadow Demon",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -36739,7 +36739,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shalvus Martholio",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Turami human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral",
@@ -36800,7 +36800,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shambling Mound",
-				"size": "L",
+				"size": "Large",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -36853,7 +36853,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shield Guardian",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -36916,7 +36916,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shoalar Quanderil",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (water genasi)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful evil",
@@ -36976,7 +36976,7 @@ var monsterData = {
 			},
 			{
 				"name": "Shrieker",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -37008,7 +37008,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sildar Hallwinter",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human), lost mine of phandelver",
 				"alignment": "neutral good",
 				"ac": "16 (chain mail)",
@@ -37062,7 +37062,7 @@ var monsterData = {
 			},
 			{
 				"name": "Silver Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -37108,7 +37108,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sir Baric Nylef",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Illuskan human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful good",
@@ -37166,7 +37166,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sirac of Suzail",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Chondathan human)",
                 "source": "Storm King's Thunder",
 				"alignment": "lawful good",
@@ -37223,7 +37223,7 @@ var monsterData = {
 			},
 			{
 				"name": "Skeleton",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -37265,7 +37265,7 @@ var monsterData = {
 			},
 			{
 				"name": "Skyweaver",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic evil",
@@ -37308,7 +37308,7 @@ var monsterData = {
 			},
 			{
 				"name": "Slaad Tadpole",
-				"size": "T",
+				"size": "Tiny",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -37347,7 +37347,7 @@ var monsterData = {
 			},
 			{
 				"name": "Smoke Mephit",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -37408,7 +37408,7 @@ var monsterData = {
 			},
 			{
 				"name": "Solar",
-				"size": "L",
+				"size": "Large",
 				"type": "celestial",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -37520,7 +37520,7 @@ var monsterData = {
 			},
 			{
 				"name": "Spectator",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "Monster Manual",
 				"alignment": "lawful neutral",
@@ -37576,7 +37576,7 @@ var monsterData = {
 			},
 			{
 				"name": "Specter",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -37621,7 +37621,7 @@ var monsterData = {
 			},
 			{
 				"name": "Spider",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -37671,7 +37671,7 @@ var monsterData = {
 			},
 			{
 				"name": "Spined Devil",
-				"size": "S",
+				"size": "Small",
 				"type": "fiend (devil)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -37753,7 +37753,7 @@ var monsterData = {
 			},
 			{
 				"name": "Spirit Naga",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -37806,7 +37806,7 @@ var monsterData = {
 			},
 			{
 				"name": "Sprite",
-				"size": "T",
+				"size": "Tiny",
 				"type": "fey",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -37859,7 +37859,7 @@ var monsterData = {
 			},
 			{
 				"name": "Spy",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -37922,7 +37922,7 @@ var monsterData = {
 			},
 			{
 				"name": "Steam Mephit",
-				"size": "S",
+				"size": "Small",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -37983,7 +37983,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stirge",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -38012,7 +38012,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stone Giant",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -38088,7 +38088,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stone Golem",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -38151,7 +38151,7 @@ var monsterData = {
 			},
 			{
 				"name": "Stonemelder",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -38206,7 +38206,7 @@ var monsterData = {
 			},
 			{
 				"name": "Storm Giant",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -38282,7 +38282,7 @@ var monsterData = {
 			},
 			{
 				"name": "Storm Giant Quintessent",
-				"size": "H",
+				"size": "Huge",
 				"type": "giant (storm giant)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic good",
@@ -38370,7 +38370,7 @@ var monsterData = {
 			},
 			{
 				"name": "Strahd Zombie",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Curse of Strahd",
 				"alignment": "unaligned",
@@ -38439,7 +38439,7 @@ var monsterData = {
 			},
 			{
 				"name": "Strahd von Zarovich",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead (shapechanger)",
                 "source": "Curse of Strahd",
 				"alignment": "lawful evil",
@@ -38593,7 +38593,7 @@ var monsterData = {
 			},
 			{
 				"name": "Strahd's Animated Armor",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Curse of Strahd",
 				"alignment": "lawful evil",
@@ -38667,7 +38667,7 @@ var monsterData = {
 			},
 			{
 				"name": "Succubus/Incubus",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -38736,7 +38736,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Bats",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -38786,7 +38786,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Beetles",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -38823,7 +38823,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Centipedes",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -38861,7 +38861,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Cranium Rats",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -38926,7 +38926,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Insects",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -38963,7 +38963,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Poisonous Snakes",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39000,7 +39000,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Quippers",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39050,7 +39050,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Rats",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39094,7 +39094,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Ravens",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39130,7 +39130,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Rot Grubs",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -39171,7 +39171,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Spiders",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39227,7 +39227,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swarm of Wasps",
-				"size": "M",
+				"size": "Medium",
 				"type": "swarm of Tiny beasts",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39264,7 +39264,7 @@ var monsterData = {
 			},
 			{
 				"name": "Swashbuckler",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any non-lawful alignment",
@@ -39331,7 +39331,7 @@ var monsterData = {
 			},
 			{
 				"name": "Talis the White",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (half-elf)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -39401,7 +39401,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tanarukk",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (demon, orc)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -39474,7 +39474,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tarrasque",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "monstrosity (titan)",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -39596,7 +39596,7 @@ var monsterData = {
 			},
 			{
 				"name": "The Pudding King",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (gnome, shapechanger)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -39686,7 +39686,7 @@ var monsterData = {
 			},
 			{
 				"name": "Thorny",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Volo's Guide",
 				"alignment": "neutral",
@@ -39737,7 +39737,7 @@ var monsterData = {
 			},
 			{
 				"name": "Thri-kreen",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (thri-kreen)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -39822,7 +39822,7 @@ var monsterData = {
 			},
 			{
 				"name": "Thri-kreen (Psionic)",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (thri-kreen)",
                 "source": "Monster Manual",
 				"alignment": "chaotic neutral",
@@ -39918,7 +39918,7 @@ var monsterData = {
 			},
 			{
 				"name": "Thug",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any non-good alignment",
@@ -39971,7 +39971,7 @@ var monsterData = {
 			},
 			{
 				"name": "Thurl Merosska",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Tyranny of Dragons",
 				"alignment": "lawful evil",
@@ -40036,7 +40036,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tiamat",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "fiend",
                 "source": "Tyranny of Dragons",
 				"alignment": "chaotic evil",
@@ -40199,7 +40199,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tiger",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -40253,7 +40253,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tlincalli",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -40316,7 +40316,7 @@ var monsterData = {
 			},
 			{
 				"name": "Transmuter",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -40392,7 +40392,7 @@ var monsterData = {
 			},
 			{
 				"name": "Trapper",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -40443,7 +40443,7 @@ var monsterData = {
 			},
 			{
 				"name": "Treant",
-				"size": "H",
+				"size": "Huge",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -40508,7 +40508,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tree Blight",
-				"size": "H",
+				"size": "Huge",
 				"type": "plant",
                 "source": "Curse of Strahd",
 				"alignment": "neutral evil",
@@ -40581,7 +40581,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tressym",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic neutral",
@@ -40632,7 +40632,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tribal Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -40667,7 +40667,7 @@ var monsterData = {
 			},
 			{
 				"name": "Triceratops",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -40710,7 +40710,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tridrone",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
                 "source": "Monster Manual",
 				"alignment": "construct",
@@ -40768,7 +40768,7 @@ var monsterData = {
 			},
 			{
 				"name": "Troglodyte",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (troglodyte)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -40835,7 +40835,7 @@ var monsterData = {
 			},
 			{
 				"name": "Troglodyte Champion of Laogzed",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (troglodyte)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -40920,7 +40920,7 @@ var monsterData = {
 			},
 			{
 				"name": "Troll",
-				"size": "L",
+				"size": "Large",
 				"type": "giant",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -40996,7 +40996,7 @@ var monsterData = {
 			},
 			{
 				"name": "Twig Blight",
-				"size": "S",
+				"size": "Small",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -41036,7 +41036,7 @@ var monsterData = {
 			},
 			{
 				"name": "Tyrannosaurus Rex",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -41082,7 +41082,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ulitharid",
-				"size": "L",
+				"size": "Large",
 				"type": "aberration",
                 "source": "Volo's Guide",
 				"alignment": "lawful evil",
@@ -41168,7 +41168,7 @@ var monsterData = {
 			},
 			{
 				"name": "Ultroloth",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (yugoloth)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -41255,7 +41255,7 @@ var monsterData = {
 			},
 			{
 				"name": "Umber Hulk",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -41315,7 +41315,7 @@ var monsterData = {
 			},
 			{
 				"name": "Unicorn",
-				"size": "L",
+				"size": "Large",
 				"type": "celestial",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -41425,7 +41425,7 @@ var monsterData = {
 			},
 			{
 				"name": "Uthgardt Shaman",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -41476,7 +41476,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vampire",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -41602,7 +41602,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vampire Spawn",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -41675,7 +41675,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vampire Spellcaster",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -41796,7 +41796,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vampire Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead (shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -41912,7 +41912,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vampiric Ixitxachitl",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -41951,7 +41951,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vampiric Ixitxachitl Cleric",
-				"size": "M",
+				"size": "Medium",
 				"type": "aberration",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -42002,7 +42002,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vanifer",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (tiefling)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -42069,7 +42069,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vargouille",
-				"size": "T",
+				"size": "Tiny",
 				"type": "fiend",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -42117,7 +42117,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vegepygmy",
-				"size": "S",
+				"size": "Small",
 				"type": "plant",
                 "source": "Volo's Guide",
 				"alignment": "neutral",
@@ -42178,7 +42178,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vegepygmy Chief",
-				"size": "S",
+				"size": "Small",
 				"type": "plant",
                 "source": "Volo's Guide",
 				"alignment": "neutral",
@@ -42255,7 +42255,7 @@ var monsterData = {
 			},
 			{
 				"name": "Velociraptor",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -42315,7 +42315,7 @@ var monsterData = {
 			},
 			{
 				"name": "Veteran",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Monster Manual",
 				"alignment": "any alignment",
@@ -42371,7 +42371,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vine Blight",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -42417,7 +42417,7 @@ var monsterData = {
 			},
 			{
 				"name": "Violet Fungus",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -42459,7 +42459,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vladimir Horngaard",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Curse of Strahd",
 				"alignment": "lawful evil",
@@ -42541,7 +42541,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vrock",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -42616,7 +42616,7 @@ var monsterData = {
 			},
 			{
 				"name": "Vulture",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -42659,7 +42659,7 @@ var monsterData = {
 			},
 			{
 				"name": "War Priest",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -42728,7 +42728,7 @@ var monsterData = {
 			},
 			{
 				"name": "Warhorse",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -42761,7 +42761,7 @@ var monsterData = {
 			},
 			{
 				"name": "Warhorse Skeleton",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -42792,7 +42792,7 @@ var monsterData = {
 			},
 			{
 				"name": "Warlock of the Archfey",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -42857,7 +42857,7 @@ var monsterData = {
 			},
 			{
 				"name": "Warlock of the Fiend",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -42922,7 +42922,7 @@ var monsterData = {
 			},
 			{
 				"name": "Warlock of the Great Old One",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -42987,7 +42987,7 @@ var monsterData = {
 			},
 			{
 				"name": "Warlord",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
                 "source": "Volo's Guide",
 				"alignment": "any alignment",
@@ -43079,7 +43079,7 @@ var monsterData = {
 			},
 			{
 				"name": "Water Elemental",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -43138,7 +43138,7 @@ var monsterData = {
 			},
 			{
 				"name": "Water Elemental Myrmidon",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral",
@@ -43192,7 +43192,7 @@ var monsterData = {
 			},
 			{
 				"name": "Water Weird",
-				"size": "L",
+				"size": "Large",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -43237,7 +43237,7 @@ var monsterData = {
 			},
 			{
 				"name": "Weasel",
-				"size": "T",
+				"size": "Tiny",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -43273,7 +43273,7 @@ var monsterData = {
 			},
 			{
 				"name": "Werebear",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "neutral good",
@@ -43343,7 +43343,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wereboar",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -43413,7 +43413,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wererat",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -43484,7 +43484,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wereraven",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Curse of Strahd",
 				"alignment": "lawful good",
@@ -43561,7 +43561,7 @@ var monsterData = {
 			},
 			{
 				"name": "Weretiger",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -43647,7 +43647,7 @@ var monsterData = {
 			},
 			{
 				"name": "Werewolf",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -43718,7 +43718,7 @@ var monsterData = {
 			},
 			{
 				"name": "White Dragon Wyrmling",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -43762,7 +43762,7 @@ var monsterData = {
 			},
 			{
 				"name": "White Guard Drake",
-				"size": "M",
+				"size": "Medium",
 				"type": "dragon",
                 "source": "Volo's Guide",
 				"alignment": "unaligned",
@@ -43822,7 +43822,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wiggan Nettlebee",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (halfling)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -43879,7 +43879,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wight",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -43946,7 +43946,7 @@ var monsterData = {
 			},
 			{
 				"name": "Will-o'-Wisp",
-				"size": "T",
+				"size": "Tiny",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -44010,7 +44010,7 @@ var monsterData = {
 			},
 			{
 				"name": "Windharrow",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (half-elf)",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -44069,7 +44069,7 @@ var monsterData = {
 			},
 			{
 				"name": "Winged Kobold",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (kobold)",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -44121,7 +44121,7 @@ var monsterData = {
 			},
 			{
 				"name": "Winter Wolf",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -44182,7 +44182,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wolf",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -44225,7 +44225,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wood Woad",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
                 "source": "Volo's Guide",
 				"alignment": "lawful neutral",
@@ -44295,7 +44295,7 @@ var monsterData = {
 			},
 			{
 				"name": "Worg",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -44333,7 +44333,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wraith",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -44385,7 +44385,7 @@ var monsterData = {
 			},
 			{
 				"name": "Wyvern",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -44441,7 +44441,7 @@ var monsterData = {
 			},
 			{
 				"name": "Xorn",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
                 "source": "Monster Manual",
 				"alignment": "neutral",
@@ -44509,7 +44509,7 @@ var monsterData = {
 			},
 			{
 				"name": "Xvart",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (xvart)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -44576,7 +44576,7 @@ var monsterData = {
 			},
 			{
 				"name": "Xvart Speaker",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (xvart)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -44643,7 +44643,7 @@ var monsterData = {
 			},
 			{
 				"name": "Xvart Warlock of Raxivort",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (xvart)",
                 "source": "Volo's Guide",
 				"alignment": "chaotic evil",
@@ -44718,7 +44718,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yakfolk Priest",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -44783,7 +44783,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yakfolk Warrior",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -44837,7 +44837,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yan-C-Bin",
-				"size": "H",
+				"size": "Huge",
 				"type": "elemental",
                 "source": "Storm King's Thunder",
 				"alignment": "neutral evil",
@@ -44955,7 +44955,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yeenoghu",
-				"size": "H",
+				"size": "Huge",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -45071,7 +45071,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yestabrod",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -45146,7 +45146,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yeth Hound",
-				"size": "L",
+				"size": "Large",
 				"type": "fey",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -45209,7 +45209,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yeti",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -45274,7 +45274,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yochlol",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (demon)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -45367,7 +45367,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Black Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -45432,7 +45432,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Blue Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -45491,7 +45491,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Brass Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -45552,7 +45552,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Bronze Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -45619,7 +45619,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Copper Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic good",
@@ -45680,7 +45680,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Gold Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -45747,7 +45747,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Green Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful evil",
@@ -45813,7 +45813,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Red Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -45872,7 +45872,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Red Shadow Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -45951,7 +45951,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Remorhaz",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
                 "source": "Monster Manual",
 				"alignment": "unaligned",
@@ -45989,7 +45989,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young Silver Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "lawful good",
@@ -46050,7 +46050,7 @@ var monsterData = {
 			},
 			{
 				"name": "Young White Dragon",
-				"size": "L",
+				"size": "Large",
 				"type": "dragon",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -46115,7 +46115,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Abomination",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -46206,7 +46206,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Anathema",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -46324,7 +46324,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Broodguard",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (yuan-ti)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -46403,7 +46403,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Malison Type 1",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -46495,7 +46495,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Malison Type 2",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -46569,7 +46569,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Malison Type 3",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -46670,7 +46670,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Mind Whisperer",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -46784,7 +46784,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Nightmare Speaker",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -46900,7 +46900,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Pit Master",
-				"size": "M",
+				"size": "Medium",
 				"type": "monstrosity (shapechanger, yuan-ti)",
                 "source": "Volo's Guide",
 				"alignment": "neutral evil",
@@ -47004,7 +47004,7 @@ var monsterData = {
 			},
 			{
 				"name": "Yuan-ti Pureblood",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (yuan-ti)",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -47071,7 +47071,7 @@ var monsterData = {
 			},
 			{
 				"name": "Zi Liang",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (Shou human)",
                 "source": "Storm King's Thunder",
 				"alignment": "chaotic good",
@@ -47135,7 +47135,7 @@ var monsterData = {
 			},
 			{
 				"name": "Zombie",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
                 "source": "Monster Manual",
 				"alignment": "neutral evil",
@@ -47173,7 +47173,7 @@ var monsterData = {
 			},
 			{
 				"name": "Zuggtmoy",
-				"size": "L",
+				"size": "Large",
 				"type": "fiend (demon)",
                 "source": "out of the abyss",
 				"alignment": "chaotic evil",
@@ -47278,7 +47278,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Kalka-Kylla",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
 				"alignment": "neutral",
 				"ac": "15 (natural armor)",
@@ -47335,7 +47335,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Kelpie",
-				"size": "M",
+				"size": "Medium",
 				"type": "plant",
 				"alignment": "neutral evil",
 				"ac": "14 (natural armor)",
@@ -47402,7 +47402,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Grenl",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (goblinoid)",
 				"alignment": "neutral evil",
 				"ac": "15 (leather armor, shield)",
@@ -47455,7 +47455,7 @@ var monsterData = {
 			{
 				"name": "Belak the Outcast",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (any race)",
 				"alignment": "any alignment",
 				"ac": "11 (16 with barkskin)",
@@ -47498,7 +47498,7 @@ var monsterData = {
 			{
 				"name": "Erky Timbers",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (gnome)",
 				"alignment": "any alignment",
 				"ac": "10",
@@ -47549,7 +47549,7 @@ var monsterData = {
 			{
 				"name": "Durnn",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (goblinoid)",
 				"alignment": "lawful evil",
 				"ac": "19 (splint armor, shield)",
@@ -47597,7 +47597,7 @@ var monsterData = {
 			{
 				"name": "Guthash",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "12",
@@ -47625,7 +47625,7 @@ var monsterData = {
 			{
 				"name": "Yusdrayl",
 				"source": "Tales from the Yawning Portal",
-				"size": "S",
+				"size": "Small",
 				"type": "humanoid (kobold)",
 				"alignment": "lawful evil",
 				"ac": "12 (15 with mage armor)",
@@ -47676,7 +47676,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Sharwyn Hucrele",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
 				"alignment": "neutral evil",
 				"ac": "16 (Barkskin trait)",
@@ -47734,7 +47734,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Sir Braford",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
 				"alignment": "neutral evil",
 				"ac": "18 (chain mail, shield)",
@@ -47789,7 +47789,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Animated Table",
-				"size": "L",
+				"size": "Large",
 				"type": "construct",
 				"alignment": "unaligned",
 				"ac": "15 (natural armor)",
@@ -47838,7 +47838,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Duergar Spy",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
 				"alignment": "lawful evil",
 				"ac": "15 (studded leather)",
@@ -47920,7 +47920,7 @@ var monsterData = {
 			{
 				"name": "Snurrevin",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
 				"alignment": "lawful evil",
 				"ac": "16 (scale mail, shield)",
@@ -47996,7 +47996,7 @@ var monsterData = {
 			{
 				"name": "Nimira",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (dwarf)",
 				"alignment": "lawful evil",
 				"ac": "17 (splint armor)",
@@ -48075,7 +48075,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Giant Subterranean Lizard",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "14 (natural armor)",
@@ -48127,7 +48127,7 @@ var monsterData = {
 
 			{
 				"name": "Kaarghaz",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (troglodyte)",
                 "source": "Monster Manual",
 				"alignment": "chaotic evil",
@@ -48204,7 +48204,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Centaur Mummy",
-				"size": "L",
+				"size": "Large",
 				"type": "undead",
 				"alignment": "lawful evil",
 				"ac": "13 (natural armor)",
@@ -48261,7 +48261,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Nahual",
-				"size": "M",
+				"size": "Medium",
 				"type": "fiend (demon)",
 				"alignment": "chaotic evil",
 				"ac": "14",
@@ -48326,7 +48326,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Nereid",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
 				"alignment": "any chaotic alignment",
 				"ac": "13",
@@ -48401,7 +48401,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Tecuziztecatl",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
 				"alignment": "neutral",
 				"ac": "13 (natural armor)",
@@ -48472,7 +48472,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Thorn Slinger",
-				"size": "L",
+				"size": "Large",
 				"type": "plant",
 				"alignment": "unaligned",
 				"ac": "11",
@@ -48515,7 +48515,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Tloques-Popolocas",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "15 (natural armor)",
@@ -48603,7 +48603,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Huge Giant Crab",
-				"size": "H",
+				"size": "Huge",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "15 (natural armor)",
@@ -48641,7 +48641,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Sea Lion",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
 				"alignment": "unaligned",
 				"ac": "15 (natural armor)",
@@ -48710,7 +48710,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Snarla",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human",
 				"alignment": "shapechanger)",
 				"ac": "11 (in humanoid form, 12 in wolf or hybrid form)",
@@ -48784,7 +48784,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Deathlock Wight",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "12 (15 with mage armor)",
@@ -48848,7 +48848,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Dread Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "18 (chain mail, shield)",
@@ -48901,7 +48901,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Malformed Kraken",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
 				"alignment": "chaotic evil",
 				"ac": "17 (natural armor)",
@@ -48971,7 +48971,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Ooze Master",
-				"size": "H",
+				"size": "Huge",
 				"type": "undead",
 				"alignment": "lawful evil",
 				"ac": "9 (natural armor)",
@@ -49043,7 +49043,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Tarul Var",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "16 (natural armor)",
@@ -49148,7 +49148,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Thayan Apprentice",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
 				"alignment": "any non-good alignment",
 				"ac": "12 (15 with mage armor)",
@@ -49195,7 +49195,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Thayan Warrior",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human)",
 				"alignment": "any non-good alignment",
 				"ac": "16 (chain shirt, shield)",
@@ -49252,7 +49252,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "White Maw",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "ooze",
 				"alignment": "chaotic neutral",
 				"ac": "5",
@@ -49309,7 +49309,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Giant Ice Toad",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
 				"alignment": "neutral",
 				"ac": "14 (natural armor)",
@@ -49366,7 +49366,7 @@ var monsterData = {
 			{
 				"name": "Four-Armed Gargoyle",
 				"source": "Tales from the Yawning Portal",
-				"size": "M",
+				"size": "Medium",
 				"type": "elemental",
 				"alignment": "chaotic evil",
 				"ac": "15 (natural armor)",
@@ -49420,7 +49420,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Giant Skeleton",
-				"size": "H",
+				"size": "Huge",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "17 (natural armor)",
@@ -49476,7 +49476,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Greater Zombie",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "15 (natural armor)",
@@ -49521,7 +49521,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Siren",
-				"size": "M",
+				"size": "Medium",
 				"type": "fey",
 				"alignment": "chaotic good",
 				"ac": "14",
@@ -49579,7 +49579,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Vampiric Mist",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "chaotic evil",
 				"ac": "13",
@@ -49636,7 +49636,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Choker",
-				"size": "S",
+				"size": "Small",
 				"type": "aberration",
 				"alignment": "chaotic evil",
 				"ac": "16 (natural armor)",
@@ -49687,7 +49687,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Amonkhet",
 				"name": "Criosphinx",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
 				"alignment": "neutral",
 				"ac": "18 (natural armor)",
@@ -49768,7 +49768,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Amonkhet",
 				"name": "Manticore, Heart-Piercer",
-				"size": "L",
+				"size": "Large",
 				"type": "monstrosity",
 				"alignment": "chaotic evil",
 				"ac": "15 (natural armor)",
@@ -49820,7 +49820,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Amonkhet",
 				"name": "Serpopard",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "12",
@@ -49866,7 +49866,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Innistrad",
 				"name": "Werewolf (Krallenhorde)",
-				"size": "M",
+				"size": "Medium",
 				"type": "humanoid (human, shapechanger)",
 				"alignment": "chaotic evil",
 				"ac": "11 in human form, 12 (natural armor) in canid form",
@@ -49956,7 +49956,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Innistrad",
 				"name": "Vampire Neonate",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "15 (natural armor)",
@@ -50047,7 +50047,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Innistrad",
 				"name": "Geist",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "any alignment",
 				"ac": "11",
@@ -50133,7 +50133,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Innistrad",
 				"name": "Skaab",
-				"size": "M",
+				"size": "Medium",
 				"type": "construct",
 				"alignment": "neutral",
 				"ac": "9",
@@ -50245,7 +50245,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Innistrad",
 				"name": "Creepy Doll",
-				"size": "T",
+				"size": "Tiny",
 				"type": "construct",
 				"alignment": "lawful evil",
 				"ac": "12",
@@ -50308,7 +50308,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Zendikar",
 				"name": "Archon Of Redemption",
-				"size": "L",
+				"size": "Large",
 				"type": "celestial",
 				"alignment": "lawful neutral",
 				"ac": "17 (natural armor)",
@@ -50388,7 +50388,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Zendikar",
 				"name": "Felidar",
-				"size": "L",
+				"size": "Large",
 				"type": "celestial",
 				"alignment": "lawful good",
 				"ac": "12",
@@ -50497,7 +50497,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Zendikar",
 				"name": "Kraken",
-				"size": "H",
+				"size": "Huge",
 				"type": "monstrosity",
 				"alignment": "chaotic evil",
 				"ac": "16 (natural armor)",
@@ -50571,7 +50571,7 @@ var monsterData = {
 			{
 				"source": "Tales from the Yawning Portal",
 				"name": "Giant Crayfish",
-				"size": "L",
+				"size": "Large",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "15 (natural armor)",
@@ -50617,7 +50617,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Kaladesh",
 				"name": "Gremlin",
-				"size": "S",
+				"size": "Small",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "11",
@@ -50661,7 +50661,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Kaladesh",
 				"name": "Sky Leviathan",
-				"size": "G",
+				"size": "Gargantuan",
 				"type": "beast",
 				"alignment": "unaligned",
 				"ac": "14 (natural armor)",
@@ -50691,7 +50691,7 @@ var monsterData = {
 			{
 				"source": "Plane Shift Kaladesh",
 				"name": "Servo",
-				"size": "T",
+				"size": "Tiny",
 				"type": "construct",
 				"alignment": "unaligned",
 				"ac": "11 (natural armor)",
@@ -50721,7 +50721,7 @@ var monsterData = {
 			{
 				"source": "Tomb of Annihilation",
 				"name": "Acererak",
-				"size": "M",
+				"size": "Medium",
 				"type": "undead",
 				"alignment": "neutral evil",
 				"ac": "21 (natural armor)",

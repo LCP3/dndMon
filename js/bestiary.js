@@ -14,14 +14,25 @@ function loadMonsterData() {
     
 // Loop through bestiary json, create li's, populate
 
+    // for (var i=0; i < monsters.length; i++){
+    //     var li = document.createElement("li");
+    //     li.id = [i];
+    //     li.setAttribute("data-creature", monsters[i].name);
+    //     li.innerHTML = "<span class='name col-xs-3'>" + monsters[i].name + "</span>" +
+    //      "<span class='type col-xs-3'>" + monsters[i].type + "</span>" +
+    //       "<span class='source col-xs-3'>" + monsters[i].source + "</span>" +
+    //        "<span class='cr col-xs-3'>" + "CR" + " " + monsters[i].cr + "</span>";
+    //     document.getElementsByTagName("ul")[0].appendChild(li);
+    // }
+
     for (var i=0; i < monsters.length; i++){
         var li = document.createElement("li");
         li.id = [i];
         li.setAttribute("data-creature", monsters[i].name);
-        li.innerHTML = "<span class='name col-xs-3'>" + monsters[i].name + "</span>" +
-         "<span class='type col-xs-3'>" + monsters[i].type + "</span>" +
-          "<span class='source col-xs-3'>" + monsters[i].source + "</span>" +
-           "<span class='cr col-xs-3'>" + "CR" + " " + monsters[i].cr + "</span>";
+        li.innerHTML = "<a href='#monsterBlock' class='name col-xs-3'>" + monsters[i].name + "</a>" +
+         "<a href='#monsterBlock' class='type col-xs-3'>" + monsters[i].type + "</a>" +
+          "<a href='#monsterBlock' class='source col-xs-3'>" + monsters[i].source + "</a>" +
+           "<a href='#monsterBlock' class='cr col-xs-3'>" + "CR" + " " + monsters[i].cr + "</a>";
         document.getElementsByTagName("ul")[0].appendChild(li);
     }
 }
@@ -29,20 +40,32 @@ function loadMonsterData() {
 monsterName = document.querySelector(".monsterName");
 
 // capture event target
-document.addEventListener("click", function(e){
+document.addEventListener("click", function(e) {
     // if e.target is a span
-    if(e.target.tagName === "SPAN"){
+    if (e.target.tagName === "A") {
         // select parent node, then set ID
         var creatureId = e.target.parentNode.getAttribute("id");
-        console.log(creatureId);
+
         pickMonster(creatureId);
+
+        // show monster stat block
+        container = document.getElementById("monsterBlock");
+        if (container.classList = "hide") {
+            container.classList.toggle("hide");
+        }
     }
     // if target is a li
-    else if(e.target.tagName === "LI"){
+    else if (e.target.tagName === "LI") {
         // set id
         var creatureId = e.target.getAttribute("id");
-        console.log(creatureId);
+
         pickMonster(creatureId);
+
+        // show monster stat block
+        container = document.getElementById("monsterBlock");
+        if (container.classList = "hide") {
+            container.classList.toggle("hide");
+        }
     }
     // else
 });
@@ -96,15 +119,27 @@ function pickMonster(id) {
 
     var resist = document.querySelector("#monsterResist");
     resist.innerHTML = monsters[id].resist;
+    if (resist.innerHTML === "undefined") {
+        resist.innerHTML = "none";
+    }
 
     var immune = document.querySelector("#monsterImmune");
     immune.innerHTML = monsters[id].immune;
+    if (immune.innerHTML === "undefined") {
+        immune.innerHTML = "none";
+    }
 
     var condImmune = document.querySelector("#monsterCondImmune");
     condImmune.innerHTML = monsters[id].conditionImmune;
+    if (condImmune.innerHTML === "undefined") {
+        condImmune.innerHTML = "none";
+    }
 
     var senses = document.querySelector("#monsterSenses");
     senses.innerHTML = monsters[id].senses;
+    if (senses.innerHTML === "undefined") {
+        senses.innerHTML = "none";
+    }
 
     var passive = document.querySelector("#monsterPassive");
     passive.innerHTML = monsters[id].passive;
